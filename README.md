@@ -1,7 +1,10 @@
 # [Your Name]'s Notes
 # This is an H1 header (largest)
-#### Try a lager size
+#### Try a smaller size
 ###### This is an H6 header (smallest)
 ## Summary
-[Ying Dong](https://github.com/dongyingname)
-This repository contains all of the notes taken by [Ying Dong] for the Lighthouse Labs Web Development Bootcamp.
+
+This repository contains all of the notes taken by [Ying Dong](https://github.com/dongyingname) for the Lighthouse Labs Web Development Bootcamp.
+
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
